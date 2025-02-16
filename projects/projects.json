@@ -2,14 +2,26 @@
   
   
   
-  {
-    "name": "Weatherly Android",
-    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
-    "image": "weatherlyandroid",
-    "category": "android",
-    "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": ""
+  [
+    {
+      "name": "Weatherly Android",
+      "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
+      "image": "weatherlyandroid",
+      "category": "android",
+      "links": {
+        "view": "https://www.linkedin.com/posts/rahul-Mandal_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+        "code": ""
+      }
+    },
+    {
+      "name": "portfolio-my",
+      "desc": "portfolio-my",
+      "image": "portfolio",
+      "category": "android",
+      "links": {
+        "view": "https://www.linkedin.com/posts/example-task-manager",
+        "code": "https://github.com/Rahul76675/portfolio-my.git"
+      }
     }
-  }
-]
+  ]
+]  
